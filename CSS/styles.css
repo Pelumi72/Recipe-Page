@@ -89,6 +89,7 @@ li::marker {
 
   img {
     border-radius: 0;
+    width: 355px;
   }
 
   .content {
